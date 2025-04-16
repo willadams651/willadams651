@@ -2,8 +2,6 @@
 <h2>👨‍💻 Cyber Security and IT Projects :</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-
-
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
