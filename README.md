@@ -1,32 +1,21 @@
-<h1>Hi, I'm William!
-<h2>👨‍💻 Cyber Security and IT Projects :</h2>
+# 👋 Hi, I'm William Adams
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-<h2>📺 Popular YouTube Videos</h2>
+🎯 Cybersecurity Professional | Passionate about protecting systems and empowering secure digital experiences.
 
-<h2> 🤳 Connect with me:</h2>
+## 🔐 About Me
+I'm a dedicated cybersecurity professional with a strong foundation in network security, risk assessment, and threat analysis. I enjoy working on real-world security problems and continuously learning to stay ahead in the ever-evolving digital landscape.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🧰 Skills
+- Network & Information Security
+- Risk Management & Compliance
+- Penetration Testing & Vulnerability Scanning
+- Python, Bash, PowerShell
+- SIEM & Incident Response
+- Cloud Security (AWS, Azure)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 📫 Let's Connect
+- 📧 Email: willjustinadams@yahoo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/williamadams-cyber)
+- 🧠 Always open to collaboration and learning new things!
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Security is not a product, but a process." – Bruce Schneier
