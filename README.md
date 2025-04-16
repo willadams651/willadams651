@@ -15,7 +15,7 @@ I'm a dedicated cybersecurity professional with a strong foundation in network s
 
 ## 📫 Let's Connect
 - 📧 Email: willjustinadams@yahoo.com
-- 💼 [LinkedIn](www.linkedin.com/in/william-adams-5823b9227)
+- 💼(www.linkedin.com/in/william-adams-5823b9227)
 - 🧠 Always open to collaboration and learning new things!
 
 > "Security is not a product, but a process." – Bruce Schneier
